@@ -1,0 +1,38 @@
+.contact-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 100px;
+  background-image: url('https://res.cloudinary.com/ddlw9iej1/image/upload/v1708714326/bg_awsrdv.jpg');
+}
+  /* .sidebar-contentc{
+    background-image: url('https://res.cloudinary.com/ddlw9iej1/image/upload/v1708714326/bg_awsrdv.jpg');
+  } */
+  h2, h3 {
+    text-align: center;
+  }
+  
+  .contact-details {
+    margin-bottom: 20px;
+  }
+  
+  .contact-form input[type="text"],
+  .contact-form input[type="email"],
+  .contact-form textarea,
+  .contact-form button {
+    display: block;
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .contact-form button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .contact-form button:hover {
+    background-color: #0056b3;
+  }
+  

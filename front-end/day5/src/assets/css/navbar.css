@@ -1,0 +1,35 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 40px;
+    background-color:blanchedalmond;
+    color: black;
+    width: 93%;
+    top: 0;
+    /* height: 150%; */
+      position: fixed;
+  }
+  .menu-icon {
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+  }
+   .sidebar-links li a:hover {
+      color: #ac2035;
+    }
+  .nav-links {
+    display: flex;
+    padding-left: 60%;
+  }
+  .nav-links a {
+    text-decoration: none;
+    color:black;
+    margin-left: 40px;
+    font-family :'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .features {
+    display: flex;
+  }
+  
